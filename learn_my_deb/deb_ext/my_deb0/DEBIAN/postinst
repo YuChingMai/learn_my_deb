@@ -1,0 +1,3 @@
+#call testing.sh file
+
+/bin/bash testing.sh
